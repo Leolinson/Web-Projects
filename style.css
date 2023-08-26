@@ -39,6 +39,7 @@ margin-top: 80px;
 }
 body{
     font-family: montseraat;
+    color: black;
     
  }
  nav{
@@ -77,6 +78,17 @@ body{
     text-decoration: none;
     
  }
+  .about{
+   color: rgb(87, 72, 72);
+
+  }
+   
+   
+
+  
+   
+
+ 
  
 
 
